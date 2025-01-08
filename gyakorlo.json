@@ -1,0 +1,59 @@
+{
+  "games": [
+    {
+      "name": "Catan",
+      "category": "Stratégiai",
+      "players": {
+        "min": 3,
+        "max": 4
+      },
+      "playing_time": 60,
+      "age_group": "10+",
+      "description": "A Catan egy izgalmas stratégiai társasjáték, amelyben a játékosok egy szigetet kolonizálnak, erőforrásokat gyűjtenek és kereskednek a győzelem érdekében."
+    },
+    {
+      "name": "Ticket to Ride",
+      "category": "Családi",
+      "players": {
+        "min": 2,
+        "max": 5
+      },
+      "playing_time": 30,
+      "age_group": "8+",
+      "description": "A Ticket to Ride egy családi társasjáték, amelyben a játékosok vonatokat építenek és összekapcsolják a különböző városokat a térképen."
+    },
+    {
+      "name": "Pandemic",
+      "category": "Kooperatív",
+      "players": {
+        "min": 2,
+        "max": 4
+      },
+      "playing_time": 45,
+      "age_group": "8+",
+      "description": "A Pandemic egy kooperatív társasjáték, amelyben a játékosok orvosi csapatként dolgoznak együtt a világjárványok megfékezéséért."
+    },
+    {
+      "name": "Azul",
+      "category": "Absztrakt",
+      "players": {
+        "min": 2,
+        "max": 4
+      },
+      "playing_time": 30,
+      "age_group": "8+",
+      "description": "Az Azul egy absztrakt társasjáték, amelyben a játékosok díszítik a palotájuk falait gyönyörű mozaikokkal."
+    },
+    {
+      "name": "Carcassonne",
+      "category": "Stratégiai",
+      "players": {
+        "min": 2,
+        "max": 5
+      },
+      "playing_time": 35,
+      "age_group": "8+",
+      "description": "A Carcassonne egy területfejlesztő társasjáték, ahol a játékosok városokat, utakat és mezőket építenek a saját területükön."
+    }
+  ]
+}
