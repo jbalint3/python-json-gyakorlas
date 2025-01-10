@@ -34,9 +34,3 @@ def game_categories(file_path):
             games_in_category = [gamelisting["name"] for gamelisting in pyobj["games"] if gamelisting["category"] == game["category"]]
             yield game["category"], games_in_category
             categories.append(game["category"])
-
-# Használat
-for category, games in game_categories("gyakorlo.json"):
-    print(f"{category}:")
-    for game in games:
-        print(f"\t{game}")
